@@ -49,15 +49,3 @@ Welcome to **ShopMania**, a fully responsive and modern e-commerce homepage layo
 | Font Awesome | Icons and visuals       |
 
 ---
-
-## 📁 Folder Structure
-
-ShopMania/
-├── index.html
-├── styles.css
-├── assets/
-│ ├── box7_img.jpg
-│ ├── box8_img.jpg
-│ ├── hero_image.jpg
-│ ├── demo-banner.jpg
-│ └── Shopping_ori.jpg
