@@ -6,8 +6,7 @@ Welcome to **ShopMania**, a fully responsive and modern e-commerce homepage layo
 
 ## 📸 Demo
 
-![ShopMania Demo Banner](assets/demo-banner.jpg)  
-> _(Optional: Replace with your own screenshot or demo GIF of the project in action)_
+![ShopMania Demo Banner](assets/demo-banner.jpg)
 
 ---
 
